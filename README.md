@@ -1,4 +1,4 @@
-# nwbroadbandalliance
+# The Pacific Northwest Rural Broadband Alliance: An Introduction
 Who is the Pacific Northwest Rural Broadband Alliance and what do we do?
 
 - 👋 Hi, we are @nwbroadband
