@@ -1,7 +1,7 @@
 # The Pacific Northwest Rural Broadband Alliance: An Introduction
 Who is the Pacific Northwest Rural Broadband Alliance and what do we do?
 
-- 👋 Hi, we are @nwbroadband
+- 👋 Hi, we are [@BroadbandNW](https://twitter.com/BroadbandNw)
 # Who are we?
 We are the first non-profit that provides guidance an hands-on resources for the creation of multi-stakeholder community powered modern broadband networks, broadband co-op’s, and consultation or partnerships with existing local ISP’s looking to improve their operations and expand the service area with the integration of decentralized infrastructure.
 
